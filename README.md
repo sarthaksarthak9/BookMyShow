@@ -204,5 +204,3 @@ This project is structured to reflect real-world backend engineering practices, 
 * Secure and maintainable access control
 
 Redis and Kafka are used deliberately where they add measurable value, not as premature optimizations.
-
-
