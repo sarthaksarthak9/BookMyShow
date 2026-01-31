@@ -7,6 +7,9 @@ This project represents a production-oriented backend system designed for a movi
 
 The architecture is built to handle real-world scenarios such as user authentication, role-based authorization, movie and show management, seat booking, and high read/write traffic.
 
+<img src="docs/diagram.png" width="800">
+
+
 ---
 
 ## 2. High-Level Application Flow
@@ -202,5 +205,4 @@ This project is structured to reflect real-world backend engineering practices, 
 
 Redis and Kafka are used deliberately where they add measurable value, not as premature optimizations.
 
----
-https://roadmap.sh/projects/movie-reservation-system
+
